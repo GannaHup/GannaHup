@@ -46,6 +46,5 @@
 
 ---
 
-
 [linkedin]: https://www.linkedin.com/in/ganna-prasetya/
 [gmail]: mailto:gannahap02@gmail.com
