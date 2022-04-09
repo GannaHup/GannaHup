@@ -9,7 +9,6 @@
 - 💻 Coding everyday 👽
 - 📚 I’m currently learning Svelte and React Native
 - 🥅 2022 Goals: Finish learning React Native and Svelte
-- ⚡ Fun fact: I do the code, on average 14 hours per day
 
 
 ## Connect with me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
