@@ -15,7 +15,6 @@
 ## Connect with me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" target="_blank" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" target="_blank" />][instagram]
 [<img align="left" alt="Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" target="_blank" />][gmail]
 
 <br />
