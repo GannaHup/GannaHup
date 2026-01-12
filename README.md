@@ -7,8 +7,7 @@
 ## I'm a Front-End Web Developer!!
 
 - 💻 Coding everyday 👽
-- 📚 I’m currently learning Svelte and React Native
-- 🥅 2022 Goals: Finish learning React Native and Svelte
+- 📚 I’m currently learning NestJs
 
 
 ## Connect with me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
