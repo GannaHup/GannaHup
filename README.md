@@ -6,7 +6,7 @@
 
 ## I'm a Front-End Web Developer!!
 
-- 💻 Coding everyday 👽
+- 💻 Do coding when I want 👽
 - 📚 I’m currently learning NestJs
 
 
