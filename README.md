@@ -35,15 +35,6 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" title="Linux" />
 <br />
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GannaHup&hide=html)
-![GannaHup github stats](https://github-readme-stats.vercel.app/api?username=GannaHup&show_icons=true&count_private=true&line_height=33.5)
-[![GannaHup's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GannaHup)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
----
 
 [linkedin]: https://www.linkedin.com/in/ganna-prasetya/
 [gmail]: mailto:gannahap02@gmail.com
